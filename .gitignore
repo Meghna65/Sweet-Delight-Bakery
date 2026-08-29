@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.gch
+*.pch
+
+# Visual Studio Code
+.vscode/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++ temporary files
+*.dev
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
